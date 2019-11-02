@@ -8,7 +8,7 @@
 
 4.Ketika bilangan pertama (a) dibandingkan dengan bilangan kedua (b), dan bilangan ketiga (c),apabila menghasilkan nilai true,maka akan tercetak nilai(a).
 
-5.Bandingkan kembali (b) dengan (a) dan (c). apabila bernilai true maka akan tercetak nilai (b).
+5.Bandingkan kembali bilangan kedua (b) dengan  bilangan pertama (a) dan bilangan ketiga (c), apabila menghasilkan nilai true,maka akan tercetak nilai (b).
 
 6.Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (c).
 
