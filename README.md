@@ -12,4 +12,5 @@
 
 6.Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (c).
 
-7.Nilai yang tercetak merupakan nilai terbesar.
+7.Nilai yang tercetak merupakan nilai terbesar. berikut hasil nya : 
+![](Screenshot.jpg)
